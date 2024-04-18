@@ -1,25 +1,8 @@
-/* Add your styles here */
-body {
-    font-family: 'Arial', sans-serif;
-    background-color: #f0f0f0;
-    margin: 20px;
-}
+/* Reset any default margins and padding */
 
-h1 {
-    color: #333;
-}
-
-p {
-    color: #555;
-}
-
-a {
-    color: #0077cc;
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
+ model-viewer {
+    width: 100vw; /* 100% of the viewport width */
+    height: 100vh; /* 100% of the viewport height */
 }
 
 
